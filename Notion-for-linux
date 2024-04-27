@@ -1,0 +1,7 @@
+Install using the command line:
+$ sudo snap install notion-snap-reborn
+install snap:
+sudo apt update
+sudo apt install snapd
+sudo systemctl enable --now snapd.socket
+snap version
